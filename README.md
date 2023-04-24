@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Igor O. Cedro</h1>
-<h3 align="center">Backend developer from São Paulo</h3>
+<h1 align="center">Hi 👋, I'm Igor Cedro</h1>
+<h3 align="center">FullStack developer from São Paulo</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
